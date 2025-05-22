@@ -1,6 +1,6 @@
 # 3a.CREATION FOR ECHO CLIENT AND ECHO SERVER USING TCP SOCKETS
-Name : shyam R
-REG NO: 212223040200
+## Name: SHYAM R
+## Reg No : 212223040200
 # AIM
 To write a python program for creating Echo Client and Echo Server using TCP
 Sockets Links.
